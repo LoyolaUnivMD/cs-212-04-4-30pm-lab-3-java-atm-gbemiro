@@ -1,1 +1,3 @@
-
+Output "Gooday! Welcome to RO Bank"
+Write a print statement to prompt the user to Input their name
+when the user Input's their name store it in a String Variable.
