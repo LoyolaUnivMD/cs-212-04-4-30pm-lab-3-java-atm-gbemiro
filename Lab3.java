@@ -1,12 +1,10 @@
-// Programmers:  [your names here]
+// Programmers:  Alejandro & Gbemiro
 // Course:  CS 212
-// Due Date:
-// Lab Assignment:
-// Problem Statement:
-// Data In:
-// Data Out:
-// Credits: [Is your code based on an example in the book, in class, or something else?
-//            Reminder: you should never take code from the Internet or another person
+// Due Date: 02/11/2022
+// Lab Assignment: 3
+// Problem Statement: You work at a bank and your current project is to design and implement a new interface for a new generation of ATMs.
+// Data In: Name, transaction type, and amount
+// Data Out: Balance
 
 import java.util.Scanner;
 
